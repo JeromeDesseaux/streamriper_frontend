@@ -1,0 +1,8 @@
+total 296
+drwxr-xr-x  9 jerome  staff     288 May  3 11:56 app
+-rw-r--r--  1 jerome  staff      38 May  3 11:05 config.py
+-rw-r--r--  1 jerome  staff   12288 May  3 14:13 jobs.db
+drwxr-xr-x  5 jerome  staff     160 May  3 14:13 logs
+-rw-r--r--  1 jerome  staff  123433 May  3 10:42 poetry.lock
+-rw-r--r--  1 jerome  staff     355 May  3 10:42 pyproject.toml
+-rw-r--r--  1 jerome  staff     314 May  3 09:07 test_main.http

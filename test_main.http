@@ -1,0 +1,19 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+###
+
+POST http://127.0.0.1:8000/job
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/status/45f252a6-b3d0-4f12-b791-a8b51205e781
+Accept: application/json

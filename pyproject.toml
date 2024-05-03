@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "streamripfrontend"
+version = "0.1.0"
+description = ""
+authors = ["jerome <jerome.desseaux@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.111.0"
+uvicorn = "^0.29.0"
+ruff = "^0.4.2"
+sqlmodel = "^0.0.18"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
